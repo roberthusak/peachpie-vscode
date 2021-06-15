@@ -100,7 +100,7 @@
     "vscode-languageclient": "^5.1.0",
     "vscode-languageserver": "^5.1.0",
     "vscode-nls": "^3.2.2",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.5.0",
     "xpath": "^0.0.27",
     "open": "^6.0.0",
     "xmlhttprequest": "^1.8.0"
